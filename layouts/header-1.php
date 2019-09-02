@@ -4,7 +4,7 @@
 			<div class="content_wrap">
 				<div class="contact_logo">
 					<div class="logo">
-						<a href="index.html"><img src="images/logo.png" class="logo_main" alt="" width="118" height="69"></a>
+						<a href="#"><img src="https://dummyimage.com/111x69/EAEAEA/fff" class="logo_main" alt="" width="118" height="69"></a>
 					</div>
 				</div>
 				<div class="contact_button">
@@ -26,21 +26,21 @@
 					<ul id="menu_main" class="menu_main_nav">
 						<li class="menu-item current-menu-item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children"><a href="#"><span>Home</span></a>
 							<ul class="sub-menu">
-								<li class="menu-item current-menu-item page-item-2"><a href="index.html"><span>Home 1</span></a></li>
-								<li class="menu-item"><a href="home-2.html"><span>Home 2</span></a></li>
-								<li class="menu-item"><a href="home-3.html"><span>Home 3</span></a></li>
-								<li class="menu-item"><a href="home-4-boxed.html"><span>Home Boxed</span></a></li>
+								<li class="menu-item current-menu-item page-item-2"><a href="#"><span>Home 1</span></a></li>
+								<li class="menu-item"><a href="#"><span>Home 2</span></a></li>
+								<li class="menu-item"><a href="#"><span>Home 3</span></a></li>
+								<li class="menu-item"><a href="#"><span>Home Boxed</span></a></li>
 							</ul>
 						</li>
 						<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
 							<ul class="sub-menu">
-								<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-								<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
+								<li class="menu-item"><a href="#"><span>Typography</span></a></li>
+								<li class="menu-item"><a href="#"><span>Shortcodes</span></a></li>
 								<li class="menu-item menu-item-has-children"><a href="#"><span>Gallery</span></a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="gallery-grid.html"><span>Grid</span></a></li>
-										<li class="menu-item"><a href="gallery-cobbles.html"><span>Cobbles</span></a></li>
-										<li class="menu-item1"><a href="gallery-masonry.html"><span>Masonry</span></a></li>
+										<li class="menu-item"><a href="#"><span>Grid</span></a></li>
+										<li class="menu-item"><a href="#"><span>Cobbles</span></a></li>
+										<li class="menu-item1"><a href="#"><span>Masonry</span></a></li>
 									</ul>
 								</li>
 								<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
@@ -48,36 +48,36 @@
 						</li>
 						<li class="menu-item menu-item-has-children menu-item-45"><a href="#"><span>About Us</span></a>
 							<ul class="sub-menu">
-								<li class="menu-item"><a href="about-us-style-1.html"><span>Style 1</span></a></li>
-								<li class="menu-item"><a href="about-us-style-2.html"><span>Style 2</span></a></li>
+								<li class="menu-item"><a href="#"><span>Style 1</span></a></li>
+								<li class="menu-item"><a href="#"><span>Style 2</span></a></li>
 							</ul>
 						</li>
 						<li class="menu-item menu-item-has-children"><a href="#"><span>Our Causes</span></a>
 							<ul class="sub-menu">
-								<li class="menu-item"><a href="our-causes.html"><span>Our Causes</span></a></li>
-								<li class="menu-item"><a href="single-cause.html"><span>Single Cause</span></a></li>
+								<li class="menu-item"><a href="#"><span>Our Causes</span></a></li>
+								<li class="menu-item"><a href="#"><span>Single Cause</span></a></li>
 							</ul>
 						</li>
 						<li class="menu-item menu-item-has-children"><a href="#"><span>News</span></a>
 							<ul class="sub-menu">
-								<li class="menu-item"><a href="all-posts.html"><span>Classic With Sidebar</span></a></li>
-								<li class="menu-item"><a href="classic-without-sidebar.html"><span>Classic Without Sidebar</span></a></li>
+								<li class="menu-item"><a href="#"><span>Classic With Sidebar</span></a></li>
+								<li class="menu-item"><a href="#"><span>Classic Without Sidebar</span></a></li>
 								<li class="menu-item menu-item-has-children"><a href="#"><span>Masonry Layouts</span></a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="masonry-2-columns.html"><span>2 columns</span></a></li>
-										<li class="menu-item"><a href="masonry-3-columns.html"><span>3 columns</span></a></li>
+										<li class="menu-item"><a href="#"><span>2 columns</span></a></li>
+										<li class="menu-item"><a href="#"><span>3 columns</span></a></li>
 									</ul>
 								</li>
 								<li class="menu-item menu-item-has-children"><a href="#"><span>Portfolio Layouts</span></a>
 									<ul class="sub-menu">
-										<li class="menu-item"><a href="portfolio-3-columns.html"><span>2 columns</span></a></li>
-										<li class="menu-item"><a href="portfolio-3-columns.html"><span>3 columns</span></a></li>
+										<li class="menu-item"><a href="#"><span>2 columns</span></a></li>
+										<li class="menu-item"><a href="#"><span>3 columns</span></a></li>
 									</ul>
 								</li>
 							</ul>
 						</li>
-						<li class="menu-item"><a href="shop.html"><span>Shop</span></a></li>
-						<li class="menu-item"><a href="contacts.html"><span>Contacts</span></a></li>
+						<li class="menu-item"><a href="#"><span>Shop</span></a></li>
+						<li class="menu-item"><a href="#"><span>Contacts</span></a></li>
 					</ul>
 				</nav>
 				<div class="search_wrap search_style_fullscreen search_state_closed">
@@ -107,58 +107,58 @@
 				<ul id="menu_mobile" class="menu_main_nav">
 					<li class="menu-item current-menu-item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children"><a href="#"><span>Home</span></a>
 						<ul class="sub-menu">
-							<li class="menu-item current-menu-item page-item-2"><a href="index.html"><span>Home 1</span></a></li>
-							<li class="menu-item"><a href="home-2.html"><span>Home 2</span></a></li>
-							<li class="menu-item"><a href="home-3.html"><span>Home 3</span></a></li>
-							<li class="menu-item"><a href="home-4-boxed.html"><span>Home Boxed</span></a></li>
+							<li class="menu-item current-menu-item page-item-2"><a href="#"><span>Home 1</span></a></li>
+							<li class="menu-item"><a href="#"><span>Home 2</span></a></li>
+							<li class="menu-item"><a href="#"><span>Home 3</span></a></li>
+							<li class="menu-item"><a href="#"><span>Home Boxed</span></a></li>
 						</ul>
 					</li>
 					<li class="menu-item menu-item-has-children"><a href="#"><span>Features</span></a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
-							<li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
+							<li class="menu-item"><a href="#"><span>Typography</span></a></li>
+							<li class="menu-item"><a href="#"><span>Shortcodes</span></a></li>
 							<li class="menu-item menu-item-has-children"><a href="#"><span>Gallery</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="gallery-grid.html"><span>Grid</span></a></li>
-									<li class="menu-item"><a href="gallery-cobbles.html"><span>Cobbles</span></a></li>
-									<li class="menu-item1"><a href="gallery-masonry.html"><span>Masonry</span></a></li>
+									<li class="menu-item"><a href="#"><span>Grid</span></a></li>
+									<li class="menu-item"><a href="#"><span>Cobbles</span></a></li>
+									<li class="menu-item1"><a href="#"><span>Masonry</span></a></li>
 								</ul>
 							</li>
-							<li class="menu-item"><a href="events.html"><span>Events</span></a></li>
+							<li class="menu-item"><a href="#"><span>Events</span></a></li>
 						</ul>
 					</li>
 					<li class="menu-item menu-item-has-children menu-item-45"><a href="#"><span>About Us</span></a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="about-us-style-1.html"><span>Style 1</span></a></li>
-							<li class="menu-item"><a href="about-us-style-2.html"><span>Style 2</span></a></li>
+							<li class="menu-item"><a href="#"><span>Style 1</span></a></li>
+							<li class="menu-item"><a href="#"><span>Style 2</span></a></li>
 						</ul>
 					</li>
 					<li class="menu-item menu-item-has-children"><a href="#"><span>Our Causes</span></a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="our-causes.html"><span>Our Causes</span></a></li>
-							<li class="menu-item"><a href="single-cause.html"><span>Single Cause</span></a></li>
+							<li class="menu-item"><a href="#"><span>Our Causes</span></a></li>
+							<li class="menu-item"><a href="#"><span>Single Cause</span></a></li>
 						</ul>
 					</li>
 					<li class="menu-item menu-item-has-children"><a href="#"><span>News</span></a>
 						<ul class="sub-menu">
-							<li class="menu-item"><a href="all-posts.html"><span>Classic With Sidebar</span></a></li>
-							<li class="menu-item"><a href="classic-without-sidebar.html"><span>Classic Without Sidebar</span></a></li>
+							<li class="menu-item"><a href="#"><span>Classic With Sidebar</span></a></li>
+							<li class="menu-item"><a href="#"><span>Classic Without Sidebar</span></a></li>
 							<li class="menu-item menu-item-has-children"><a href="#"><span>Masonry Layouts</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="masonry-2-columns.html"><span>2 columns</span></a></li>
-									<li class="menu-item"><a href="masonry-3-columns.html"><span>3 columns</span></a></li>
+									<li class="menu-item"><a href="#"><span>2 columns</span></a></li>
+									<li class="menu-item"><a href="#"><span>3 columns</span></a></li>
 								</ul>
 							</li>
 							<li class="menu-item menu-item-has-children"><a href="#"><span>Portfolio Layouts</span></a>
 								<ul class="sub-menu">
-									<li class="menu-item"><a href="portfolio-3-columns.html"><span>2 columns</span></a></li>
-									<li class="menu-item"><a href="portfolio-3-columns.html"><span>3 columns</span></a></li>
+									<li class="menu-item"><a href="#"><span>2 columns</span></a></li>
+									<li class="menu-item"><a href="#"><span>3 columns</span></a></li>
 								</ul>
 							</li>
 						</ul>
 					</li>
-					<li class="menu-item"><a href="shop.html"><span>Shop</span></a></li>
-					<li class="menu-item"><a href="contacts.html"><span>Contacts</span></a></li>
+					<li class="menu-item"><a href="#"><span>Shop</span></a></li>
+					<li class="menu-item"><a href="#"><span>Contacts</span></a></li>
 				</ul>
 			</nav>
 			<div class="search_wrap search_style_ search_state_fixed search_ajax">

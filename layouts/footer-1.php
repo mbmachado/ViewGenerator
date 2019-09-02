@@ -6,7 +6,7 @@
 					<div class="contacts_wrap">
 						<div class="contacts_wrap_inner">
 							<div class="logo">
-								<a href="index.html"><img src="images/logo-footer.png" class="logo_footer" alt="" width="237" height="121"></a>
+								<a href="#"><img src="layouts/images/logo-footer.png" class="logo_footer" alt="" width="237" height="121"></a>
 							</div>
 							<div class="contacts_address">
 								<p>Nulla fringilla orci mauris, nec tempor lectus consequat ac. Nulla consectetur magna in velit pellentesque egestas sed eget nibh. Fusce nec viverra dolor. Phasellus faucibus egestas nulla, vel suscipit metus maximus id. Phasellus blandit porttitor
@@ -28,27 +28,27 @@
 											<div class="slides swiper-wrapper">
 												<div class="swiper-slide">
 													<div id="sc_clients_1240164734_1" class="sc_clients_item sc_clients_item_1 odd first">
-														<div class="sc_client_image"><img width="90" height="90" alt="partner-2.png" src="images/partner-2.png"></div>
+														<div class="sc_client_image"><img width="90" height="90" alt="partner-2.png" src="layouts/images/partner-2.png"></div>
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<div id="sc_clients_1240164734_2" class="sc_clients_item sc_clients_item_2 even">
-														<div class="sc_client_image"><img width="90" height="90" alt="partner-1.png" src="images/partner-1.png"></div>
+														<div class="sc_client_image"><img width="90" height="90" alt="partner-1.png" src="layouts/images/partner-1.png"></div>
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<div id="sc_clients_1240164734_3" class="sc_clients_item sc_clients_item_3 odd">
-														<div class="sc_client_image"><img width="90" height="90" alt="partner-3.png" src="images/partner-3.png"></div>
+														<div class="sc_client_image"><img width="90" height="90" alt="partner-3.png" src="layouts/images/partner-3.png"></div>
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<div id="sc_clients_1240164734_4" class="sc_clients_item sc_clients_item_4 even">
-														<div class="sc_client_image"><img width="90" height="90" alt="partner-4.png" src="images/partner-4.png"></div>
+														<div class="sc_client_image"><img width="90" height="90" alt="partner-4.png" src="layouts/images/partner-4.png"></div>
 													</div>
 												</div>
 												<div class="swiper-slide">
 													<div id="sc_clients_1240164734_5" class="sc_clients_item sc_clients_item_5 odd">
-														<div class="sc_client_image"><img width="90" height="90" alt="partner-5.png" src="images/partner-5.png"></div>
+														<div class="sc_client_image"><img width="90" height="90" alt="partner-5.png" src="layouts/images/partner-5.png"></div>
 													</div>
 												</div>
 											</div>

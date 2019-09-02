@@ -9,8 +9,8 @@
 						<div class="isotope_item isotope_item_classic isotope_item_classic_2 isotope_column_2 ">
 							<div class="post_item post_item_classic post_item_classic_2 post_format_standard odd">
 								<div class="post_featured">
-									<div class="post_thumb" data-image="images/image-1.jpg" data-title="How Does the Bible Define Poverty?">
-										<a class="hover_icon hover_icon_link" href="single-post.html"><img width="770" height="434" alt="How Does the Bible Define Poverty?" src="images/image-1-770x434.jpg"></a>
+									<div class="post_thumb" data-image="layouts/images/image-1.jpg" data-title="How Does the Bible Define Poverty?">
+										<a class="hover_icon hover_icon_link" href="single-post.html"><img width="770" height="434" alt="How Does the Bible Define Poverty?" src="layouts/images/image-1-770x434.jpg"></a>
 									</div>
 								</div>
 								<div class="post_content isotope_item_content">
@@ -35,7 +35,7 @@
 							<div class="post_item post_item_classic post_item_classic_2 post_format_video even last">
 								<div class="post_featured">
 									<div class="sc_video_player">
-										<div class="sc_video_frame sc_video_play_button hover_icon hover_icon_play" data-width="770" data-height="433" data-video="&lt;iframe class=&quot;video_frame&quot; src=https://player.vimeo.com/video/11080389?autoplay=1 width=&quot;770&quot; height=&quot;433&quot; frameborder=&quot;0&quot; webkitAllowFullScreen=&quot;webkitAllowFullScreen&quot; mozallowfullscreen=&quot;mozallowfullscreen&quot; allowFullScreen=&quot;allowFullScreen&quot;&gt;&lt;/iframe&gt;"><img width="770" height="434" alt="image-2.jpg" src="images/image-2-770x434.jpg"></div>
+										<div class="sc_video_frame sc_video_play_button hover_icon hover_icon_play" data-width="770" data-height="433" data-video="&lt;iframe class=&quot;video_frame&quot; src=https://player.vimeo.com/video/11080389?autoplay=1 width=&quot;770&quot; height=&quot;433&quot; frameborder=&quot;0&quot; webkitAllowFullScreen=&quot;webkitAllowFullScreen&quot; mozallowfullscreen=&quot;mozallowfullscreen&quot; allowFullScreen=&quot;allowFullScreen&quot;&gt;&lt;/iframe&gt;"><img width="770" height="434" alt="image-2.jpg" src="layouts/images/image-2-770x434.jpg"></div>
 									</div>
 								</div>
 								<div class="post_content isotope_item_content">

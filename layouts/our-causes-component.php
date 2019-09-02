@@ -9,7 +9,7 @@
 					<div class="sc_donations_columns_wrap">
 						<div class="post_item_excerpt post_type_donation sc_donations_column-1_3">
 							<div class="post_featured">
-								<img width="570" height="320" src="images/image-16-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Education to Every Child" />
+								<img width="570" height="320" src="layouts/images/image-16-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Education to Every Child" />
 							</div>
 							<!-- .post_featured -->
 							<div class="post_body">
@@ -39,7 +39,7 @@
 						</div>
 						<div class="post_item_excerpt post_type_donation sc_donations_column-1_3">
 							<div class="post_featured">
-								<img width="570" height="320" src="images/image-14-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Primary School for Kids" /> </div>
+								<img width="570" height="320" src="layouts/images/image-14-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Primary School for Kids" /> </div>
 							<!-- .post_featured -->
 							<div class="post_body">
 								<div class="post_header entry-header">
@@ -67,7 +67,7 @@
 						</div>
 						<div class="post_item_excerpt post_type_donation sc_donations_column-1_3">
 							<div class="post_featured">
-								<img width="570" height="320" src="images/image-15-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Patient and Family Support" /> </div>
+								<img width="570" height="320" src="layouts/images/image-15-570x320.jpg" class="attachment-thumb_med size-thumb_med" alt="Patient and Family Support" /> </div>
 							<!-- .post_featured -->
 							<div class="post_body">
 								<div class="post_header entry-header">
